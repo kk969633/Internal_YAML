@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: test_hana_coud
-  version: '1'
+  version: 1.0.0
 servers:
   - url: 'https://cm-cpi.apimanagement.jp10.hana.ondemand.com:443/testhana'
 paths: {}
