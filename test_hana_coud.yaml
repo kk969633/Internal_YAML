@@ -3,7 +3,7 @@
   "schema_version": "v1",
   "name_for_human": "Testing_API",
   "name_for_model": "Testing_API",
-  "description_for_human": "Testing_API",
+  "description_for_human": "Owner Data",
   "description_for_model": "內部測試使用API",
   "api": {
     "type": "openapi",
